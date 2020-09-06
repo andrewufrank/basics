@@ -1,3 +1,6 @@
+# buildx with 
+# docker buildx build -t andrewufrank/basics:1 --platform linux/arm/v7,linux/arm64,linux/amd64,linux/arm/v6 --push .
+
 # x11docker/basics
 # 
 #  fixes the debian version to buster
